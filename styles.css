@@ -1,16 +1,16 @@
 body {
-	background: pink;
+	background: teal;
 	font-family:  Helvetica;
 }
 h1 {
-	color: black;
+	color: white;
 	text-align: center;
 }
 .assign {
 	display: flex;
 	padding: 10px;
 	margin: 10px;
-	background: white;
+	background: silver;
 }
 .assign img {
 	width: 200px;
