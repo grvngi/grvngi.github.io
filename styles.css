@@ -1,5 +1,5 @@
 body {
-	background: blue;
+	background: pink;
 	font-family:  Helvetica;
 }
 h1 {
@@ -10,7 +10,7 @@ h1 {
 	display: flex;
 	padding: 10px;
 	margin: 10px;
-	background: flamingo;
+	background: white;
 }
 .assign img {
 	width: 200px;
